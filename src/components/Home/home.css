@@ -1,0 +1,39 @@
+.home-page {
+  width: 100%;
+  background: #fbfdfc;
+}
+
+.add-task-section {
+  position: relative;
+  margin-left: 60px;
+  width: 92%;
+}
+
+.to-do-selector {
+  background-color: #fbfdfc;
+}
+.to-do-text {
+  color: #142e159e;
+  font-family: Outfit;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+}
+
+.home-main-content {
+  display: flex;
+  border: 1px solid;
+  margin-left: 0px;
+  justify-content: flex-start;
+}
+.add-task-main-section {
+  width: 980px;
+}
+
+.edit-task-container {
+  /* position: absolute;
+    margin-left: 900px; */
+  border: 1px solid;
+  width: 456px;
+}

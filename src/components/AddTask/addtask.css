@@ -1,0 +1,43 @@
+.AddTask-container {
+  height: 178px;
+  background: linear-gradient(
+    0deg,
+    rgba(53, 121, 55, 0.1) 0%,
+    rgba(208, 255, 210, 0.1) 100%
+  );
+}
+
+.add-task-inpute {
+  position: relative;
+  padding: 0px 0px 0px 20px;
+  width: 667px;
+  height: 130px;
+  border: none;
+  background: transparent;
+}
+
+.bottom-left-part {
+  position: relative;
+  margin-left: 20px;
+  width: 80px;
+  height: 37px;
+  opacity: 0px;
+}
+
+.btn-add-task {
+  position: relative;
+  right: 5px;
+  width: Hug (104px) px;
+  height: Hug (36px) px;
+  padding: 8px 16px 8px 16px;
+  border-radius: 8px;
+  opacity: 0px;
+  background: #35793729;
+  font-family: Outfit;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: left;
+  color: #2d6930;
+  border: none;
+}
